@@ -1,0 +1,5 @@
+../Core/Src/encoder.c:9:6:Encoder_Init	16	static
+../Core/Src/encoder.c:21:6:Encoder_Update	4	static
+../Core/Src/encoder.c:32:9:Encoder_GetDelta	4	static
+../Core/Src/encoder.c:37:9:Encoder_GetTotal	4	static
+../Core/Src/encoder.c:42:10:Encoder_GetRaw	4	static
