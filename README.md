@@ -5,5 +5,6 @@
 <h3>
   Folder Description
 </h3>
-* Differential Encoder Interface - RS485 to TTL Converter with SN75175N
-* Encoder_AMT313Q - Basic code for Encoder. Use to debug and test the encoder operation.
+
+ * Differential Encoder Interface - RS485 to TTL Converter with SN75175N
+ * Encoder_AMT313Q - Basic code for Encoder. Use to debug and test the encoder operation.
