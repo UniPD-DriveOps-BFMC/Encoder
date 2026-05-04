@@ -1,6 +1,6 @@
-../Core/Src/encoder.c:11:14:Encoder_CountsToMeters	1
-../Core/Src/encoder.c:20:16:Encoder_ModNearest	3
-../Core/Src/encoder.c:33:6:Encoder_Init	1
-../Core/Src/encoder.c:56:6:Encoder_Update_10ms_ISR	1
-../Core/Src/encoder.c:89:6:Encoder_Z_ISR	1
-../Core/Src/encoder.c:106:17:Encoder_GetState	1
+../Core/Src/encoder.c:15:14:Encoder_CountsToMeters	1
+../Core/Src/encoder.c:24:16:Encoder_ModNearest	3
+../Core/Src/encoder.c:37:6:Encoder_Init	1
+../Core/Src/encoder.c:63:6:Encoder_Update_ISR	5
+../Core/Src/encoder.c:115:6:Encoder_Z_ISR	1
+../Core/Src/encoder.c:132:17:Encoder_GetState	1

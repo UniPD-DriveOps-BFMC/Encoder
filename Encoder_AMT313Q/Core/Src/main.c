@@ -120,7 +120,7 @@ int main(void)
           last_time = now;
 
           // Update encoder (same as ISR version)
-          Encoder_Update_10ms_ISR();
+          Encoder_Update_ISR();
 
           // Read state
           Encoder_State_t s = Encoder_GetState();
